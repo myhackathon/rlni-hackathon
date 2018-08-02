@@ -1,0 +1,135 @@
+Zone,Coastguard,CRT_Mnemno,CRO_Complement,CRO_Comp_1,Search,Rope,Mud,Enhanced,Water,Vehicle,Estate,Lat,Long,Notes
+5,Eyemouth,EYCRT,9,9,Y,Y,N,N,N,Y,"HM Coastguard 5 Fort Road, Eyemouth, Berwickshire, TD14 5BD",55.874859,-2.094523, 
+5,Berwick,BWCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Samphire Court, Windmill Way West, Ramparts Business Park, Berwick upon Tweed, TD15 1UN",55.788792,-2.017611,Backed up by Eyemouth if full cliff team required
+5,Holy Island,HICRT,7,7,Y,N,N,N,Y,Y,"HM Coastguard, Castle Road, Holy Island, TD15 2SG",55.671491,-1.799012,Access to the Island via a causeway which is cut off at high tide
+5,Seahouses,SHCRT,10,10,Y,N,Y,N,Y,Y,"HM Coastguard, Seafield, Road, NE68 7SL",55.581964,-1.654754, 
+5,Howick CRT,HWCRT,14,14,Y,Y,N,Y,Y,Y,"HM Coastguard, Windyside Hill, Craster, NE66 3TW",55.471662,-1.596762, 
+5,Amble,AMCRT,11,11,Y,N,N,N,Y,Y,"HM Coastguard, Leazes Street, Amble, NE65 0AR",55.335521,-1.579624, 
+5,Newbiggin,NGCRT,8,8,Y,Y,N,N,Y,Y,"HM Coastguard, 6 Ocean View, Newbiggin By The Sea, NE64 6PD",55.182255,-1.514715, 
+5,Blyth,BLCRT,9,9,Y,N,N,Y,Y,Y,"HM Coastguard, Unit 27F, Cowpen Ind Est, Spencer Road, Blyth NE24 5TG",55.133123,-1.529696, 
+6,Sunderland,SUCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Unit 6, Charles Street, SR6 0AN",54.912532,-1.377033, 
+6,Seaham,SECRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, North Road, SR7 7EZ",54.840481,-1.332879, 
+6,Hartlepool,HPCRT,9,9,Y,N,N,N,Y,Y,"HM Coastguard, Slake Terrace, Hartlepool Marina, Hartlepool TS24 0YD",54.68993,-1.198319, 
+7,Redcar,REDCRT,9,9,Y,N,N,N,Y,Y,"HM Coastguard, Majuba Road, TS10 5BJ",54.619738,-1.080126, 
+7,Skinningrove,SKCRT,11,11,Y,N,N,Y,Y,Y,"HM Coastguard, Marine Terrace, TS13 4BJ",54.570613,-0.898119, 
+7,Staithes,STIRT,7,7,Y,N,N,N,Y,Y,"HM Coastguard Unit 1B, Hinderwell Industrial Estate, Station Road, Hinderwell",54.535015,-0.770847, 
+7,Whitby,WYCRT,9,9,Y,Y,N,N,Y,Y,"HM Coastguard, Captain Cook Crescent, Whitby, North Yorkshire, YO22 4HL",54.48223,-0.605343, 
+7,Robin Hoods Bay,RHBCRT,8,8,Y,Y,N,N,Y,Y,"HM Coastguard, Thorpe Lane, Robin Hoods Bay, North Yorkshire, YO22 4RN",54.433927,-0.537635, 
+7,Ravenscar,RRCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Station Road, YO13 0LX",54.398324,-0.48434, 
+7,Burniston,BVIRT,5,5,Y,Y,N,Y,Y,Y,"HM Coastguard, Scarborough, Road, Burniston, YO13 0HL",54.321197,-0.444755,On a dual page with Scarborough CRT
+7,Scarborough,SCCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Paradise, Scarborough, YO11 1RB",54.286267,-0.391872, 
+7,Filey,FYCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, The Beach, Filey YO149LA",54.206821,-0.28477,Back up Bridlington CRT for Cliff/Rope Rescue
+8,Bridlington,BTCRT,15,15,Y,Y,N,N,Y,Y,"HM Coastguard, Limekiln Lane, Bridlington, YO15 2LX",54.093988,-0.177649, 
+8,Hornsea,HRCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Burton Road, Hornsea, HU18 1TN",53.906176,-0.167963,"For rope rescue, require Bridlington CRT for back up"
+8,Withernsea,WSCRT,11,11,Y,Y,N,Y,Y,Y,"HM Coastguard, The Promenade, Withernsea, HU19 2DW",53.730471,0.035405,"For rope rescue, require Bridlington CRT or Hornsea CRT for back up"
+8,Easington,EAIRT,5,5,Y,N,N,N,Y,Y,"HM Coastguard, Beck Lane, Easington, HU12 0TX",53.651206,0.115835, 
+8,Hull,HUCRT,11,11,Y,N,Y,Y,Y,Y,"HM Coastguard, Unit 5, Freightliner Road, Brighton Street Industrial Estate, Hull, HU3 4UW",53.72998,-0.379071, 
+8,Cleethorpes,CPSCRT,11,11,Y,N,N,N,Y,Y,"HM Coastguard, Brighton Street, Cleethorpes, DN35 8SE",53.556415,-0.023414, 
+10,Mundesley,MUCRT,8,8,Y,Y,N,N,N,Y,"HM Coastguard, The Garage, Pollard Street, Bacton, NR12 0LB",52.841882,1.464677,Co-located and dual page with Happisburgh CRT
+10,Happisburgh,HAPCRT,6,6,Y,Y,N,N,N,Y,"HM Coastguard, The Garage, Pollard Street, Bacton, NR12 0LB",52.841882,1.464677,Co-located and dual page with Mundesley CRT
+10,Winterton,WTCRT,10,10,Y,Y,N,N,N,Y,"HM Coastguard, Unit 1B, Fairfield Industrial Park, Hemsby Road, Martham, Norfolk, NR29 4QQ",52.704369,1.645486, 
+10,Gorleston,GOCRT,5,5,Y,N,N,N,N,Y,"HM Coastguard, Riverside Road, Gorleston, NR31 6PX",52.581407,1.729973, 
+10,Lowestoft,LTCRT,9,9,Y,N,N,N,N,Y,"HM Coastguard, 7 Harvest Drive, Gisleham, Lowestoft, NR33 7NJ",52.44813,1.718852, 
+10,Southwold,SWDCRT,6,6,Y,N,N,Y,N,Y,"HM Coastguard, 7 Harvest Drive, Gisleham, Lowestoft, NR33 7NJ",52.44813,1.718852,Co-located and dual page with Lowestoft
+10,Aldeburgh CRT,ALC,10,10,Y,N,N,N,Y,Y,"Fort Green, Aldeburgh, Suffolk, IP15 5DE.",52.146489,1.600488, 
+10,Shingle Street CRT,SIC,0,9,Y,N,N,N,Y,Y,"Portacabin, Grounds of Alexander International School, Bawdsey Manor, Bawdsey, Woodbridge, Suffolk. IP12 3AZ",51.989585,1.399626, 
+11,Felixstowe CRT,FXC,0,10,Y,N,Y,N,Y,Y,"31/33 Schneider Close, Carr Road Business Centre, Felixstowe, Suffolk, IP11 3SS",51.948104,1.326882,Based same location as the SCOO
+11,Holbrook CRT,HKC,0,7,Y,N,N,N,Y,Y,"CRV located at Royal Harwich Yacht Club, Woolvestone, Ipswich, Suffolk, IP9 1AT",52.005735,1.197619,No CRE
+11,Walton CRT,WNC,0,12,Y,Y,Y,N,Y,Y,"MCA Thames, East Terrace, Walton on Naze, Essex, CO14 8PY",51.855022,1.279774,CRT details are what the team should be trained for but currently mud rescue may be transferred to Clacton CRT
+11,Clacton CRT,CCC,0,8,Y,N,N,N,Y,Y,"Hastings Avenue, Martello Bay, Clacton on Sea, Essex, CO15 1BW",51.781213,1.141294,CRT details above may have mud rescue added if the competency is moved from Walton CRT
+11,Mersea CRT,MEC,0,8,Y,N,N,N,Y,Y,"Unit 5, Rushmere Close, West Mersea, Colchester, Essex, CO5 8QQ",51.777136,0.920577,"Based on the Tidal Island of Mersea, as such may be limited to operations on the Island only during spring high tides."
+13,South Woodham CRT,SWC,0,11,Y,N,N,N,Y,Y,"The Fire Station, Ferrers Road, South Woodham Ferrers, Essex, CM3 5XH",51.643343,0.620335,CRV and equipment stored at the Fire Station where the CRT has a room to use.
+13,Southend CRT,SNC,0,10,Y,N,N,N,Y,Y,"Ness Road, Shoeburyness, Southend, Essex, SS3 9QR",51.529208,0.782858,Excellent lookout facility at this station. Team can back up Canvey CRT when required.
+13,Canvey CRT,CYC,0,4,Y,N,N,N,Y,N,"Currently no unit, running as an IRT but will become a BURT in FCG",0,0,Can back up Southend or vice-versa. From time to time Canvey CRT is requested to assist in London CG incidents where they are currently paged and tasked by THCG. * In FCG this needs to be highlighted - will LNCG have capability to page Canvey CRT with a
+13,Medway CRT,MYC,0,11,Y,Y,Y,N,Y,Y,"Unit 4, Enterprise Business Centre, Whitewall Road, Rochester, Kent, ME2 4LQ",51.395216,0.51613,Restricted cliff rescue - can back up Sheppey CRT. From time to time Medway CRT is requested to assist in London CG incidents where they are currently paged and tasked by THCG. * In FCG this needs to be highlighted - will LNCG have capability to page Med
+13,Sheppey CRT,SHC,0,11,Y,Y,Y,N,Y,Y,"Unit 12, New Road Industrial Estate, Grace Road, Grace Road, Sheerness, Kent ME12 1DB.",51.4361,0.751378,Can back up Medway CRT. From time to time Sheppey CRT may be requested to assist in London CG incidents where they are currently paged and tasked by THCG. * In FCG this needs to be highlighted - will LNCG have capability to page Sheppey CRT with a differ
+13,Herne Bay CRT,HYC,0,11,Y,N,Y,N,Y,Y,"Unit 8&9, Westbrook Park, Sea Street, Herne Bay, Kent, CT6 8LF",51.363985,1.102115,Back up Margate or Sheppey Cliff Teams
+15,Rye Bay,RBCRT,11,11,Y,Y,Y,N,Y,Y, ,0,0, 
+15,Hastings,HACRT,11,11,Y,Y,N,N,Y,Y, ,0,0, 
+15,Bexhill,BXCRT,6,6,Y,Y,N,Y,N,Y, ,0,0,BACK UP HASTINGS FOR CLIFF/ROPE RESCUE
+15,Eastbourne,EBCRT,11,11,Y,Y,N,N,Y,Y,"The Stables, Beachy Head",50.753487,0.248668, 
+15,Birling Gap,BICRT,11,11,Y,Y,N,N,Y,Y, ,0,0,"Birling Gap & Eastbourne teams work very closely together when undertaking cliff jobs. In the main, both teams recover the bodies of suicidal people."
+15,Newhaven,NEWCRT,11,11,Y,N,N,N,Y,Y,"HM Coastguard, Fort Road, Newhaven. East Sussex BN9 9EL",50.787522,0.051631, 
+15,Shoreham,SHOCRT,13,13,Y,N,N,N,Y,Y,"Unit 3, Ham Business Ctr, Humphreys Gap, Shoreham by Sea BN43 6RE",50.832205,-0.268707, 
+15,Littlehampton,LITCRT,12,12,Y,N,N,N,Y,Y,"HM Coastguard, Arun Parade, Littlehampton.",50.803947,-0.54272, 
+15,Selsey,SELCRT,12,12,Y,N,Y,N,Y,Y,"West Street, Selsey, West Sussex",50.730603,-0.798084, 
+16,Bembridge CRT,BEMCRT,0,7,Y,Y,N,N,Y,Y,"HM Coastguard, Beachfield Road, Bembridge, IOW PO35 5TR",50.683338,-1.073925,Vodapage backs up Ryde IRT
+16,Ventnor CRT,VENCRT,12,12,Y,Y,Y,N,Y,Y,"Unit 3, Ventnor Industrial Estate, Old Station Road, Ventnor, Isle of Wight, PO38 1DX",50.598073,-1.208588,Ch 0 Pagers
+17,SELSEY,SELCRT,0,12,Y,N,Y,N,Y,Y,"End of West Street, Selsey. PO20 9AG",50.730569,-0.802902,"Difficult road access to a lot of their patch. During busy summer months, frequent missing children searches on nearby West Wittering Beach (Private). They attend HLS at St Richards in Chichester but need warning to get there in time."
+17,HAYLING ISLAND,HAYCRT,0,13,Y,N,N,N,Y,Y,"Sea Front, Hayling Island.PO11 9JS. GRID: SZ 726985",50.785279,-0.985092,Access and egress to the Island can be difficult during the busy summer months. Good visibility from the Lookout of the whole of Hayling Bay.
+17,PORTSMOUTH,PORCRT,0,11,Y,N,Y,N,Y,Y,"Unit E, Highgrove Industrial Park, Quartermaine Road, Portsmouth PO3 5QQ",50.824442,-1.054147,This is the main Area Mud Rescue Team.
+17,HILLHEAD,HILCRT,0,11,Y,N,Y,N,Y,Y,"HM Coastguard, 44A Marine Parade West, Lee- on the Solent PO13 9NR",50.808054,-1.210443,This team provides back up to Main Area Mud Team. Called to man east side of River Itchen when there are possible jumpers from the Bridge.
+17,SOUTHAMPTON,SOUCRT,0,11,Y,N,N,N,Y,Y,"Located at Hardley Fire Station, Hardley, SO45 2PY",50.839962,-1.390641,Co located with Hants FRS(retained station). Team mans Southampton Hospital Helipad and West side of the River Itchen for possible jumpers from the bridge.
+17,LYMINGTON,LMNCRT,0,9,Y,Y,Y,Y,Y,Y,"Seaforth House, Lymington Marina, Bath Road, Lymington SO41 3YJ",50.755915,-1.533192,This is full MUD and CLIFF team who work closely with Southborne CRT.
+17,NEEDLES,NEECRT,0,11,Y,Y,N,N,Y,Y,"CG Station, Lanes End, Totland, Isle of Wight. PO39 0AL",50.683292,-1.541756,Although based in zone 17 much of their current area of responsibility is in zone 16.
+17,RYDE,RYDIRT,0,4,N,N,N,N,N,N,No team base they are part of the Bembridge CRT.,0,0,Used for initial response in the area of RYDE where there is a large area of sands that dry out at certain states of the tide.
+17,NEWPORT,NWPIRT,0,4,N,N,N,N,N,N,No base. Part of the Bembridge CRT.,0,0,Used predominantly for liaison at the Hospital Helipad. Also available for incidents at either side of the River Medina especially close to Newport.
+18,SOUTHBOURNE,SOCRT,0,12,Y,Y,N,Y,Y,Y,"Admiralty Road, Southbourne",50.720643,-1.79007,As of Feb 2015 they are 4 members short in the team. They cover the heavily urbanised area East of Bournemouth which can cause traffic problems during the busy summer months.
+18,POOLE,PLECRT,0,11,Y,N,Y,N,Y,Y,"Quay Office & Nuffield Industrial Estate, Poole",50.742,-1.976697,This team covers from Bournemouth Pier to Holton Heath which covers a very busy area especially during the summer months. There is also a number of differing authorities involved in the harbour area which can create confusion regarding responsibilities.
+18,SWANAGE,SWCRT,0,12,Y,Y,N,N,Y,Y,"De Moulham Road, Swanage. GRID: 195/029799",50.615339,-1.958753,A very diverse area with a great swell in the population during the Summer Holiday season.
+18,ST ALBANS HEAD,SALCG,0,11,Y,Y,N,N,Y,Y,"Bonvils Road, Worth Matravers",50.593942,-2.047077,"At the present, this team have a double facing guard that covers the Channel coast line from Rope Lake Head to Dancing Ledge and in Poole Harbour from Middlebeare Farm to Bower Point."
+18,KIMMERIDGE,KGCRT,0,11,Y,Y,N,N,Y,Y,"Smedmore House, Kimmeridge",50.609359,-2.108555,"This is another double facing guard, but only the Northerly part is covered in this zone. Team members are scattered in remote areas and it can take some time to muster a full team."
+19,PORTLAND BILL,PBCRT,12,12,Y,Y,N,N,Y,N, ,0,0, 
+19,WYKE CRT,WYKCRT,12,12,Y,Y,N,N,Y,N,"BINCLEAVES ROAD, WEYMOUTH, DORSET, DT4 8 RW",50.60152,-2.455617, 
+19,LULWORTH CRT,LULCRT,12,12,Y,Y,N,N,Y,N,"HERITAGE CENTRE, WEST LULWORTH, DORSET, BH20 5PE",50.616668,-2.120558, 
+19,KIMMERIDGE CRT,KGCRT,10,10,Y,Y,N,N,Y,N, ,0,0, 
+20,WEST BAY CRT,WBCRT,12,12,Y,Y,N,N,Y,N,"3 GEORGE STREET, WEST BAY, DORSET, DT6 4EY",50.711828,-2.760641, 
+20,LYME REGIS CRT,LYMCRT,11,11,Y,Y,Y,N,Y,N,"SIDMOUTH ROAD, LYME REGIS, DORSET, DT7 3LD",50.724299,-2.941862, 
+21,Berry Head Coastguard,BHCRT,8,8,Y,Y,N,N,Y,Y,"HM Coastguard, Customs House, King's Quay, Brixham, TQ5 9TN",50.396456,-3.510543, 
+21,Torbay Coastguard,TBCRT,12,12,Y,Y,N,N,Y,Y,"Torbay, Cliff Road",50.430987,-3.556175, 
+21,Teignmouth Coastguard,THCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, Teignmouth, Ivy Lane",50.543736,-3.497735, 
+21,Exmouth Coastguard,EXCRT,10,10,Y,Y,Y,N,Y,Y,"Unit 23, Dinan Way Trading Estate, Concorde Road, Exmouth, EX8 4EZ",50.629415,-3.379684, 
+21,Sidmouth Initial Response Team,SIDIRT,4,4,Y,N,N,N,N,N,"HM Coastguard, Sidmouth",50.675631,-3.246485,SIDIRT Form part of Beer CRT. Group page of Beer will call Sidmouth IRT
+21,Beer Coastguard,BERCRT,13,13,Y,Y,N,N,Y,Y,"Common Lane, Beer, Devon, EX12 3AG",50.695834,-3.092676, 
+22,Dartmouth CRT,DMCRT,12,12,Y,Y,N,N,Y,Y,"Bidders Close, Stoke Fleming, Dartmouth, TQ6 0NZ",50.325878,-3.59737, 
+22,Prawle Point CRT,PQCRT,12,12,Y,Y,N,N,Y,Y,"School  Lane, East Prawle, Kingsbridge, TQ7 2DF",50.217502,-3.710573,Restricted for Rope Rescue (02/10/2014 due to revalidation) and vacancies.
+22,Hope Cove CRT,HCCRT,14,14,Y,Y,N,N,Y,Y,"Bolberry Road, Inner Hope, Kingsbridge, TQ7 5HW",50.239061,-3.83747,Hope Cove CRT members form the crew for the Hope Cove Rescue Boat.
+22,Bigbury CRT,BBCRT,12,12,Y,Y,N,N,Y,Y,"SX 664471, TQ7 4HQ",50.309847,-3.877605, 
+23,Yealm Coastguard Rescue Team,YMCRT,12,12,Y,Y,N,N,Y,Y,"Collarton Park, Yealmpton, Plymouth, PL8 2NE",50.329878,-4.011823,Restricted due to availability and vacancies
+23,Plymouth Coastguard Rescue Team,PHCRT,12,12,Y,Y,N,N,Y,Y,"Church Hill Road, Hooe, Plymouth, PL9 9SE",50.353763,-4.114977,Restricted due to availability and vacancies.
+23,Tamar Coastguard Rescue Team,TACRT,14,14,Y,Y,N,N,Y,Y,"Units 5 & 6, Carew Wharf Business Centre, Marine Drive, Torpoint, PL11 2RF",50.372858,-4.195313,"Teams in South East Cornwall Sector currently do not have Water Rescue Equipment/Training. Restricted due to vacancies, low manning"
+23,Looe Coastguard Rescue Team,LOOCRT,12,12,Y,Y,N,N,Y,Y,"MARINE DRIVE, HANNAFORE, WEST LOOE, PL13 2DJ",50.344703,-4.456328,Teams in South East Cornwall Sector currently do not have Water Rescue Equipment/Training.
+23,Polruan Coastguard Rescue Team,PNCRT,8,8,Y,N,N,N,Y,Y,"ST Saviours Hill, Polruan- by-Fowey, PL23 1PR",50.327902,-4.63685,CRT offline for Rope Rescue. Teams in South East Cornwall Sector currently do not have Water Rescue Equipment/Training.
+23,St Austell Coastguard Rescue Team,SACRT,12,12,Y,Y,N,N,Y,Y,"Unit 3 Square Sail House, Charlestown Road, Charlestown, St.Austell, PL25 3NP",50.331596,-4.757738,Teams in South East Cornwall Sector currently do not have Water Rescue Equipment/Training.
+23,Mevagissey Coastguard Rescue Team,MVCRT,12,12,Y,Y,N,N,Y,Y,"CRV kept at Home address of Station OfficerTrewin, Tregoney Hill, Mevagissey, PL26 6RJ",50.269604,-4.794264,Teams in South East Cornwall Sector currently do not have Water Rescue Equipment/Training.
+23,Portscatho Cliff Rescue Team,PSCOCRT,7,7,Y,Y,N,N,Y,Y,"Treventon Road, Portscatho, Cornwall, TR2 5DX.  SW874354",50.181085,-4.977421,"Back up for Falmouth in event of mud rescue. Page from Falmouth, Trevose and Rame Aerials as team in blackspot."
+23,Falmouth Cliff Rescue Team,FALCRT,8,8,Y,Y,Y,N,Y,Y,"Port Pendennis, Tinners Walk Falmouth TR11 3XZ. SW815323",50.151083,-5.059104,"Mud Rescue Team, Provide HLS for aircraft unable to land at Treliske hospital Truro."
+23,Porthoustock Cliff Rescue Team,PHTKCRT,11,11,Y,Y,N,N,Y,Y,"Unit 2, Treskewes Industrial Estate, St Keverne, Nr Helston, Cornwall, TR12 6NN",50.049991,-5.088153,Back up for Falmouth CRT in the event of mud rescue.
+26,Hartland,HDCRT,12,12,Y,Y,Y,N,Y,Y,"HM Coastguard, East Down, Hartland, North Devon, EX39 6AQ",50.990598,-4.461015, 
+26,Westward Ho!,WWCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, Golf Links Road, Westward Ho, Bideford, EX39 1LH",51.041379,-4.236407,They are mud rescue trained but not equipped with mud rescue equipment
+26,Instow,INWIRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, Marine Parade, Instow, Bideford, EX39 4HW",51.051409,-4.181627,They are rope rescue trained but not equipped with rope rescue equipment
+26,Croyde,CDCRT,12,12,Y,Y,N,N,Y,Y,"HM Coastguard, Lane Head Close, Croyde, Braunton, North Devon EX33 1NW",51.133821,-4.227621, 
+26,Lundy CRT,LUNCRT,11,11,Y,N,N,N,Y,Y,"Lundy Island, Bristol Channel, Via Bideford, EX39 2LY",51.164734,-4.662244,They use the multi responder fire 4 x 4 as their CRV and make use of their own vehicles. Also bound to Lundy Island.
+26,Mortehoe,MHCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, North Morte Road, Mortehoe, Woolacombe, North Devon, EX34 7ED",51.187154,-4.207611, 
+26,Ilfracombe,ILFCRT,12,12,Y,Y,N,N,Y,Y,"H.M. Coastguard, Watermouth Road, Ilfracombe, North Devon, EX34 9RU",51.215332,-4.087001, 
+27,Lynmouth CRT,LYNCRT,11,11,Y,Y,N,N,Y,Y,"Unit 1A, Craft Workshops, Watersmeed  Road, Lynmouth, North Devon EX35 6EP",51.228959,-3.827237,Use Page One paging system
+27,Minehead,MHDCRT,11,11,Y,Y,N,N,Y,Y,"Unit A, 37 - 41 Alcombe Road, Minehead, Somerset, TA24 6BA",51.198493,-3.469046, 
+27,Watchet,WATCRT,11,11,Y,Y,Y,N,Y,Y,"Esplanade Lane, Watchet, Somerset, TA23 0AH",51.181985,-3.329857, 
+27,Burnham,BURCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, South Esplanade, Burnham On Sea, TA8 1BU",51.232254,-2.999982, 
+27,Weston Super Mare,WSMCRT,13,13,Y,Y,Y,N,Y,Y,"Laney''s Drove, Locking, Weston Super Mare, North Somerset, BS24 8PP",51.338044,-2.930776, 
+27,Clevedon,CLVCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, The Promenade, Elton Road, Clevdon, BS21 7RH",51.436992,-2.865684, 
+27,Portishead,PHDCRT,11,11,Y,N,Y,N,Y,Y,"HM Coastguard, Area 13, Groundfloor, Albright and Wilson Building, Portishead Quay, Portishead, BS20 7BS",51.49259,-2.761832, 
+27,Sharpeness,SNSCRT,11,11,Y,N,Y,N,Y,Y,"HM Coastguard, Severn Road, Sharpness, Gloucester, GL13 9UA",51.715556,-2.481951, 
+27,Chepstow,CTWIRT,11,11,Y,N,N,Y,Y,Y,"HM Coastguard, Beachley Slip, Beachley, Chepstow, NP6 7HH",51.613433,-2.648425,They are mud rescue trained but don't have mud equipment
+27,Penarth,PENCRT,11,11,Y,Y,Y,N,Y,Y,"HM Coastguard, Cliff Parade, Penarth, South Glamorgan, CF64 5BP",51.427964,-3.17185, 
+27,Barry Island,BICRT,11,11,Y,Y,Y,N,Y,Y,"72 Redbrink Crescent, Barry Island, CF6 8TU",51.392677,-3.266293, 
+27,Llantwit Major,LMCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Llanmaes Rd, Llantwit Major, Vale of Glamorgan CF61 2XD",51.411137,-3.480411, 
+27,Porthcawl,PCCRT,11,11,Y,Y,N,Y,Y,Y,"HM Coastguard, 20a Lock`s Lane, Newton, Porthcawl, CF36 3HY",51.484438,-3.714305, 
+27,Port Talbot,PTCRT,11,11,Y,N,Y,N,Y,Y,"HM Coastguard, Princess Margaret Way, Aberafan Seafront, Port Talbot, SA12 6QW",51.591675,-3.812785, 
+28,Mumbles CRT,MMCRT,15,15,Y,Y,N,N,Y,Y,"HM Coastguard, Myrtle Terrace, Mumbles, Swansea, SA3 4DT",51.572807,-3.996159, 
+28,Oxwich CRT,OXCRT,7,7,Y,N,N,N,Y,Y,"HM Coastguard, Oxwich, Gower, SA3 1LS",51.558411,-4.16937, 
+28,Rhossili CRT,RSCRT,15,15,Y,Y,N,N,Y,Y,"HM Coastguard, Coastguard Cottages, Rhossili, Swansea, SA3 1PR",51.568906,-4.290003, 
+28,Lougher IRT,LOIRT,7,7,Y,N,N,N,Y,Y,"HM Coastguard, Pontaedulais Road, Swansea, SA4 4FE",51.670025,-4.041749, 
+28,Burry Port CRT,BPCRT,12,12,Y,N,Y,N,Y,Y,"HM Coastguard, Harbour Workshop, East Dock, Burry Port, Carmarthenshire, SA16 0LT",51.679597,-4.247777, 
+28,Llansteffan CRT,LSNCRT,15,15,Y,Y,Y,N,Y,Y,"HM Coastguard, The Morfa, Llansteffan, Carmarthenshire, SA33 5LW",51.770255,-4.387168,Coastguard Rescue Dog (Sparky) LSN00
+28,Tenby CRT,TBYCRT,20,20,Y,Y,N,N,Y,Y,"H.M. Coastguard, Unit 11, The Salterns, Tenby, Pembrokeshire, SA70 7NJ",51.671238,-4.709646, 
+28,St Govan's CRT,SGSCRT,19,19,Y,Y,N,N,Y,Y,"HM Coastguard, Windsor Road, Bosherston, Pembrokeshire, SA71 3RN",51.613382,-4.939423, 
+28,Dale CRT,DLECRT,12,12,Y,Y,N,N,Y,Y,"HM Coastguard, Castle Way, Dale, Haverfordwest, Pembrokeshire, SA62 3RN",51.709061,-5.172533, 
+28,Broadhaven CRT,BHNCRT,14,14,Y,Y,N,N,Y,Y,"HM Coastguard, Millmoor House, Broad Haven, Haverfordwest, Pembrokeshire, SA62 3JH",51.784479,-5.098705, 
+28,St David's CRT,SDSCRT,12,12,Y,Y,N,N,Y,Y,"HM Coastguard, Nun Street, St. Davids, Haverfordwest, Pembrokeshire, SA62 6NU",51.883717,-5.263964, 
+28,Fishguard CRT,FGCRT,12,12,Y,Y,N,N,Y,Y,"HM Coastguard, Windy Hall Road, Fishguard, Pembrokeshire, SA65 9DP",51.997919,-4.984108, 
+28,Moylegrove CRT,MYLCRT,12,12,Y,Y,N,N,Y,Y,"Moylegrove Coastguard Rescue Station, SA43 3BW",51.663983,-4.076326, 
+29,Gwbert,GWCRT,10,10,Y,Y,Y,N,Y,Y,"HM Coastguard, Gwbert on Sea, Cardigan, Ceredigin, SA43 1PP",52.112482,-4.683767,Welsh Dialect is strong limitations are communications in around and up river.
+29,New Quay,NQCRT,12,12,Y,Y,N,N,Y,Y,"HM Coastguard, Upper Car Park, Church Road, New Quay, Ceredigion, SA45 9PN",52.213631,-4.362761,Welsh Dialect is strong Various rivers in the area cut the guard and need to know which side of the river the job is. Topography is large open expanse with heavily populated towns which swell in the summer months affecting journey times
+29,Aberystwyth,ASCRT,11,11,Y,Y,N,N,Y,Y,"HM Coastguard, Castle Street, Aberystwyth, Ceredigion, SY23 1DT",52.414218,-4.087298,Aberystwyth University is located close by and various student activities operate in the area without prior knowledge to CG. Has a significant hot spot called Constitution Hill which has a cliff railway attraction and well known for missing persons. Also
+29,BORTH,BORCRT,12,12,Y,Y,Y,N,Y,Y,"HM Coastguard, Canteen Corner, Borth, Ceredigion, SY24 5JP",52.492595,-4.051413,"Extreme delay if paged to back up Aberdovey team, due to long transit inland and over the River Dovey Bridge Has a large area of dunes which are difficult to search The area of the Ynylas estuary used to be a Military Weapons testing range and has regula"

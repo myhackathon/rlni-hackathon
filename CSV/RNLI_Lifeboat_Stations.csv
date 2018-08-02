@@ -1,0 +1,239 @@
+SAP_ID,Station,Station_Ty,County,Region,Division,Country,Lifesaving,Lifesavi_1,ALM,Regional_M,CSP,Lat_Dec_De,Long_Dec_D
+2354,Aith,ALB,Shetland Islands,Scotland & North,Central & Shetland,Scotland,Scotland,1,Dupre Strutt,Jacob Davies,Michael Avril,60.286309,-1.3752
+2390,Kirkwall,ALB,Orkney Islands,Scotland & North,Highlands,Scotland,Scotland,1,Dupre Strutt,Jacob Davies,Michael Avril,58.985405,-2.960315
+2372,Lerwick,ALB,Shetland Islands,Scotland & North,Central & Shetland,Scotland,Scotland,1,Dupre Strutt,Jacob Davies,Michael Avril,60.153287,-1.14022
+2318,Longhope,ALB,Orkney Islands,Scotland & North,Highlands,Scotland,Scotland,1,Dupre Strutt,Jacob Davies,Michael Avril,58.800576,-3.206881
+2336,Stromness,ALB,Orkney Islands,Scotland & North,Highlands,Scotland,Scotland,1,Dupre Strutt,Jacob Davies,Michael Avril,58.963337,-3.29769
+2423,Buckie,ALB,Moray,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,57.680841,-2.952716
+2415,Invergordon,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,57.686544,-4.167407
+2419,Kessock,ILB,Highland,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,57.500991,-4.234654
+2421,Loch Ness,ILB,Highland,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,57.336745,-4.444432
+2434,Macduff,ILB,Aberdeenshire,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,57.672697,-2.494272
+2281,Thurso,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,58.612121,-3.54698
+2401,Wick,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,2,Stuart Gudgeon,Jacob Davies,Michael Avril,58.439337,-3.082953
+2489,Aberdeen,ALB/ILB,Aberdeenshire,Scotland & North,Central & Shetland,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,57.144039,-2.080431
+2546,Arbroath,ALB/ILB,Angus,Scotland & North,Central & Shetland,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,56.555267,-2.584827
+2568,Broughty Ferry,ALB/ILB,City Of Dundee,Scotland & North,Central & Shetland,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,56.465,-2.8774
+2445,Fraserburgh,ALB,Aberdeenshire,Scotland & North,Highlands,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,57.693571,-2.002824
+2524,Montrose,ALB/ILB,Angus,Scotland & North,Central & Shetland,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,56.703663,-2.463908
+2467,Peterhead,ALB,Aberdeenshire,Scotland & North,Highlands,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,57.503042,-1.774634
+2502,Stonehaven,ILB,Aberdeenshire,Scotland & North,Central & Shetland,Scotland,Scotland,3,Gavin Baird,Jacob Davies,Michael Avril,56.960638,-2.201313
+2580,Anstruther,ALB/ILB,Fife,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,56.22152,-2.697318
+2677,Dunbar,ALB/ILB,East Lothian,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,56.005043,-2.514909
+2702,Eyemouth,ALB,Scottish Borders,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,55.872177,-2.086115
+2611,Kinghorn,ILB,Fife,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,56.068548,-3.173954
+2655,North Berwick,ILB,East Lothian,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,56.060237,-2.717634
+2633,Queensferry,ILB,City Of Edinburgh,Scotland & North,Central & Shetland,Scotland,Scotland,4,Mike Garfitt,Jacob Davies,Michael Avril,55.9906,-3.3852
+3083,Amble,ALB/ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.3364,-1.5816
+3029,Berwick-Upon-Tweed,ALB/ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.760971,-2.000278
+3120,Blyth,ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.125591,-1.498049
+3065,Craster,ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.47263,-1.59414
+3148,Cullercoats,ILB,Tyne & Wear,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.03552,-1.432091
+3101,Newbiggin,ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.1859,-1.5066
+3047,Seahouses,ALB/ILB,Northumberland,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.5829,-1.6539
+3156,Tynemouth,ALB/ILB,Tyne & Wear,Scotland & North,North & Scot South,England,North and East,5,Carl Harris,Darren Lewis,Ben Mitchell,55.009112,-1.432922
+3210,Hartlepool,ALB/ILB,County Durham,Scotland & North,North & Scot South,England,North and East,6,Helen Williams,Darren Lewis,Ben Mitchell,54.694838,-1.19096
+3231,Redcar,ILB,North Yorkshire,Scotland & North,North & Scot South,England,North and East,6,Helen Williams,Darren Lewis,Ben Mitchell,54.618587,-1.063667
+3249,Staithes And Runswick,ILB,North Yorkshire,Scotland & North,North & Scot South,England,North and East,6,Helen Williams,Darren Lewis,Ben Mitchell,54.559757,-0.791727
+3167,Sunderland,ILB,Tyne & Wear,Scotland & North,North & Scot South,England,North and East,6,Helen Williams,Darren Lewis,Ben Mitchell,54.91994,-1.367461
+3276,Whitby,ALB/ILB,North Yorkshire,Scotland & North,North & Scot South,England,North and East,6,Helen Williams,Darren Lewis,Ben Mitchell,54.48818,-0.613085
+3355,Bridlington,ALB/ILB,East Riding Of Yorkshire,East,East,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,54.076464,-0.199733
+3319,Filey,ALB/ILB,North Yorkshire,Scotland & North,North & Scot South,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,54.211306,-0.283378
+3337,Flamborough,ILB,East Riding Of Yorkshire,East,East,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,54.104724,-0.118987
+3373,Humber,ALB,East Riding Of Yorkshire,East,East,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,53.5764,0.1107
+3298,Scarborough,ALB/ILB,North Yorkshire,Scotland & North,North & Scot South,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,54.283455,-0.393127
+3361,Withernsea,ILB,East Riding Of Yorkshire,East,East,England,North and East,7,Chris Ward,Darren Lewis,Ben Mitchell,53.726104,0.040724
+3384,Cleethorpes,ILB,Lincolnshire,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,53.55688,-0.023211
+3435,Hunstanton,ILB/IRH,Norfolk,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,52.9541,0.5026
+3402,Mablethorpe,ILB,Lincolnshire,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,53.3408,0.266
+3468,Sheringham,ILB,Norfolk,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,52.945926,1.202744
+3424,Skegness,ALB/ILB,Lincolnshire,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,53.141765,0.34673
+3446,Wells,ALB/ILB,Norfolk,East,East,England,North and East,8,Daniel Cooper,Darren Lewis,Ben Mitchell,52.972995,0.851732
+3507,Cromer,ALB/ILB,Norfolk,East,East,England,North and East,9,Lee Firman,Darren Lewis,Ben Mitchell,52.934366,1.301704
+3553,Gt Yarmouth & Gorleston,ALB/ILB,Norfolk,East,East,England,North and East,9,Lee Firman,Darren Lewis,Ben Mitchell,52.575248,1.73197
+3531,Happisburgh,ILB,Norfolk,East,East,England,North and East,9,Lee Firman,Darren Lewis,Ben Mitchell,52.813298,1.556197
+3575,Lowestoft,ALB,Suffolk,East,East,England,North and East,9,Lee Firman,Darren Lewis,Ben Mitchell,52.471692,1.752812
+3597,Southwold,ILB,Suffolk,East,East,England,North and East,9,Lee Firman,Darren Lewis,Ben Mitchell,52.314983,1.672482
+3624,Aldeburgh,ALB/ILB,Suffolk,East,East,England,North and East,10, ,Darren Lewis,Ben Mitchell,52.152271,1.602616
+4500,Burnham-On-Crouch,ILB,Essex,East,South East,England,North and East,10, ,Darren Lewis,Ben Mitchell,51.629185,0.80253
+3708,Clacton-On-Sea,ILB,Essex,East,East,England,North and East,10, ,Darren Lewis,Ben Mitchell,51.7815,1.1413
+3646,Harwich,ALB/ILB,Essex,East,East,England,North and East,10, ,Darren Lewis,Ben Mitchell,51.948657,1.287184
+3668,Walton & Frinton,ALB,Essex,East,East,England,North and East,10, ,Darren Lewis,Ben Mitchell,51.847245,1.271192
+3710,West Mersea,ILB,Essex,East,East,England,North and East,10, ,Darren Lewis,Ben Mitchell,51.780337,0.898664
+4536,Chiswick,ILB,Greater London,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.482196,-0.251584
+4530,Gravesend,ILB,Kent,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.445265,0.374681
+4544,Sheerness,ALB/ILB,Kent,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.446178,0.744002
+4522,Southend-On-Sea,ILB/IRH,Essex,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.532425,0.716346
+4539,Teddington,ILB,Greater London,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.430629,-0.326063
+4533,Tower,ILB,Greater London,East,South East,England,South East,11,Neil Withers,Glen Mallen,Guy Addington,51.50992,-0.117225
+4588,Margate,ALB/ILB,Kent,East,South East,England,South East,12,James Uren,Glen Mallen,Guy Addington,51.391616,1.382693
+4608,Ramsgate,ALB/ILB,Kent,East,South East,England,South East,12,James Uren,Glen Mallen,Guy Addington,51.328903,1.419671
+4626,Walmer,ILB,Kent,East,South East,England,South East,12,James Uren,Glen Mallen,Guy Addington,51.213532,1.40299
+4566,Whitstable,ILB,Kent,East,South East,England,South East,12,James Uren,Glen Mallen,Guy Addington,51.362591,1.025767
+5113,Dover,ALB,Kent,East,South East,England,South East,13,Allen Head,Glen Mallen,Guy Addington,51.1183,1.3106
+5146,Dungeness,ALB,Kent,East,South East,England,South East,13,Allen Head,Glen Mallen,Guy Addington,50.926506,0.976547
+5189,Hastings,ALB/ILB,East Sussex,East,South East,England,South East,13,Allen Head,Glen Mallen,Guy Addington,50.854919,0.591786
+5135,Littlestone-On-Sea,ILB,Kent,East,South East,England,South East,13,Allen Head,Glen Mallen,Guy Addington,50.974594,0.965636
+5167,Rye Harbour,ILB,East Sussex,East,South East,England,South East,13,Allen Head,Glen Mallen,Guy Addington,50.938482,0.764106
+5255,Brighton,ILB,East Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.8109,-0.1043
+5211,Eastbourne,ALB/ILB,East Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.791179,0.327696
+5299,Littlehampton,ILB,West Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.80803,-0.544483
+5233,Newhaven,ALB,East Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.788517,0.05372
+5315,Selsey,ALB/ILB,West Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.727136,-0.778702
+5277,Shoreham Harbour,ALB/ILB,West Sussex,East,South East,England,South East,14,Martin Blaker-Rowe,Glen Mallen,Guy Addington,50.8304,-0.249
+5471,Bembridge,ALB/ILB,Isle Of Wight,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.690202,-1.07048
+5343,Calshot,ILB,Hampshire,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.820195,-1.308302
+5485,Cowes,ILB,Isle Of Wight,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.764801,-1.298099
+5320,Hayling Island,ILB,Hampshire,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.781624,-0.936681
+5359,Lymington,ILB,Hampshire,South,Central,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.7539,-1.5291
+5337,Portsmouth,ILB,Hampshire,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.795226,-1.029811
+5492,Yarmouth,ALB,Isle Of Wight,South,Channel,England,South East,15,Ed Stevens,Glen Mallen,Guy Addington,50.706162,-1.50044
+6506,Mudeford,ILB,Dorset,South,Channel,England,South East,16,Seb Pinkard,Glen Mallen,Guy Addington,50.724319,-1.742065
+6515,Poole,ALB/ILB,Dorset,South,Channel,England,South East,16,Seb Pinkard,Glen Mallen,Guy Addington,50.712714,-1.991972
+6522,Swanage,ALB/ILB,Dorset,South,Channel,England,South East,16,Seb Pinkard,Glen Mallen,Guy Addington,50.607233,-1.946708
+6678,Alderney,ALB,Alderney,South,Channel,Channel Isles,South East,17,Willem Krige,Glen Mallen,Guy Addington,49.723992,-2.200106
+6643,St Catherine,ILB,Jersey,South,Channel,Channel Isles,South East,17,Willem Krige,Glen Mallen,Guy Addington,49.21796,-2.030262
+6661,St Helier,ALB/ILB,Jersey,South,Channel,Channel Isles,South East,17,Willem Krige,Glen Mallen,Guy Addington,49.1805,-2.1128
+6625,St Peter Port,ALB,Guernsey,South,Channel,Channel Isles,South East,17,Willem Krige,Glen Mallen,Guy Addington,49.452742,-2.533415
+6586,Exmouth,ALB/ILB,Devon,South,Channel,England,South West,18,Nigel Jones,David Page,Steve Instance,50.610982,-3.399015
+6565,Lyme Regis,ILB,Dorset,South,Central,England,South West,18,Nigel Jones,David Page,Steve Instance,50.7204,-2.939
+6598,Teignmouth,ILB,Devon,South,Channel,England,South West,18,Nigel Jones,David Page,Steve Instance,50.542167,-3.497902
+6609,Torbay,ALB/ILB,Devon,South,Channel,England,South West,18,Nigel Jones,David Page,Steve Instance,50.399184,-3.505521
+6544,Weymouth,ALB/ILB,Dorset,South,Channel,England,South West,18,Nigel Jones,David Page,Steve Instance,50.607243,-2.450158
+6613,Dart,ILB,Devon,South,Channel,England,South West,19,Simon Crayfourd,David Page,Steve Instance,50.354731,-3.578012
+6716,Plymouth,ALB/ILB,Devon,South,South West,England,South West,19,Simon Crayfourd,David Page,Steve Instance,50.3631,-4.1504
+6617,Salcombe,ALB/ILB,Devon,South,South West,England,South West,19,Simon Crayfourd,David Page,Steve Instance,50.238604,-3.766712
+6750,Falmouth,ALB/ILB,Cornwall,South,South West,England,South West,20,James Millidge,David Page,Steve Instance,50.1514,-5.0592
+6738,Fowey,ALB/ILB,Cornwall,South,South West,England,South West,20,James Millidge,David Page,Steve Instance,50.338722,-4.632329
+6725,Looe,ILB,Cornwall,South,South West,England,South West,20,James Millidge,David Page,Steve Instance,50.352019,-4.453241
+6794,The Lizard,ALB,Cornwall,South,South West,England,South West,20,James Millidge,David Page,Steve Instance,49.969512,-5.187045
+6816,Penlee,ALB/ILB,Cornwall,South,South West,England,South West,21, ,David Page,Steve Instance,50.103931,-5.548723
+7601,Sennen Cove,ALB/ILB,Cornwall,South,South West,England,South West,21, ,David Page,Steve Instance,50.077864,-5.703656
+7613,St Ives,ALB/ILB,Cornwall,South,South West,England,South West,21, ,David Page,Steve Instance,50.2128,-5.4796
+7637,Newquay (Cornwall),ILB,Cornwall,South,South West,England,South West,22,Dickon Berriman,David Page,Steve Instance,50.416411,-5.087125
+7625,St Agnes,ILB,Cornwall,South,South West,England,South West,22,Dickon Berriman,David Page,Steve Instance,50.3195,-5.2017
+6835,St Mary's,ALB,Isles Of Scilly,South,South West,England,South West,22,Dickon Berriman,David Page,Steve Instance,49.916863,-6.311713
+7793,Bude,ILB,Cornwall,South,South West,England,South West,23,Tom Mansell,David Page,Steve Instance,50.830895,-4.550008
+7659,Padstow,ALB,Cornwall,South,South West,England,South West,23,Tom Mansell,David Page,Steve Instance,50.549034,-5.02172
+7771,Port Isaac,ILB,Cornwall,South,South West,England,South West,23,Tom Mansell,David Page,Steve Instance,50.592012,-4.831992
+7700,Rock,ILB,Cornwall,South,South West,England,South West,23,Tom Mansell,David Page,Steve Instance,50.544643,-4.924479
+7836,Appledore,ALB/ILB,Devon,South,South West,England,South West,24,Phil Hill,David Page,Steve Instance,51.056909,-4.199869
+7918,Burnham-On-Sea,ILB,Somerset,West,Wales South & Severn,England,South West,24,Phil Hill,David Page,Steve Instance,51.2337,-2.9973
+7815,Clovelly,ILB,Devon,South,South West,England,South West,24,Phil Hill,David Page,Steve Instance,50.9983,-4.3976
+7860,Ilfracombe,ALB/ILB,Devon,South,South West,England,South West,24,Phil Hill,David Page,Steve Instance,51.209663,-4.116088
+7901,Minehead,ILB,Somerset,West,Wales South & Severn,England,South West,24,Phil Hill,David Page,Steve Instance,51.214049,-3.475224
+8102,Barry Dock,ALB,South Glamorgan,West,Wales South & Severn,Wales,Wales and West,25,Paul Eastment,Matt Crofts,Helen Church,51.393299,-3.261923
+8085,Penarth,ILB,South Glamorgan,West,Wales South & Severn,Wales,Wales and West,25,Paul Eastment,Matt Crofts,Helen Church,51.43253,-3.16901
+8146,Porthcawl,ILB,South Glamorgan,West,Wales South & Severn,Wales,Wales and West,25,Paul Eastment,Matt Crofts,Helen Church,51.474169,-3.702059
+7950,Portishead,ILB,Somerset,West,Wales South & Severn,England,Wales and West,25,Paul Eastment,Matt Crofts,Helen Church,51.493793,-2.756786
+7923,Weston-Super-Mare,ILB,Somerset,West,Wales South & Severn,England,Wales and West,25,Paul Eastment,Matt Crofts,Helen Church,51.352089,-2.988006
+8226,Burry Port,ILB,Carmarthenshire,West,Wales South & Severn,Wales,Wales and West,26,Joanna Price,Matt Crofts,Helen Church,51.679713,-4.248449
+8212,Horton & Port Eynon,ILB,Swansea,West,Wales South & Severn,Wales,Wales and West,26,Joanna Price,Matt Crofts,Helen Church,51.5483,-4.2011
+8168,Port Talbot,ILB,Neath Port Talbot,West,Wales South & Severn,Wales,Wales and West,26,Joanna Price,Matt Crofts,Helen Church,51.593538,-3.816837
+8235,Tenby,ALB/ILB,Pembrokeshire,West,Wales South & Severn,Wales,Wales and West,26,Joanna Price,Matt Crofts,Helen Church,51.673089,-4.693729
+8180,The Mumbles,ALB/ILB,Swansea,West,Wales South & Severn,Wales,Wales and West,26,Joanna Price,Matt Crofts,Helen Church,51.569855,-3.974175
+8257,Angle,ALB/ILB,Pembrokeshire,West,Wales South & Severn,Wales,Wales and West,27,Conor Curtin,Matt Crofts,Helen Church,51.689476,-5.079038
+8313,Fishguard,ALB/ILB,Pembrokeshire,West,Wales South & Severn,Wales,Wales and West,27,Conor Curtin,Matt Crofts,Helen Church,52.0133,-4.9842
+8279,Little & Broad Haven,ILB,Pembrokeshire,West,Wales South & Severn,Wales,Wales and West,27,Conor Curtin,Matt Crofts,Helen Church,51.773168,-5.107117
+8291,St Davids,ALB/ILB,Pembrokeshire,West,Wales South & Severn,Wales,Wales and West,27,Conor Curtin,Matt Crofts,Helen Church,51.878559,-5.309105
+8390,Aberdovey,ILB,Gwynedd,West,Wales South & Severn,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.543236,-4.045663
+8358,Aberystwyth,ILB,Ceredigion,West,Wales South & Severn,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.408783,-4.088923
+8414,Barmouth,ALB/ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.7209,-4.0558
+8379,Borth,ILB,Ceredigion,West,Wales South & Severn,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.481262,-4.051377
+8317,Cardigan,ILB,Ceredigion,West,Wales South & Severn,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.1047,-4.6995
+8325,New Quay (Cardiganshire),ALB/ILB,Ceredigion,West,Wales South & Severn,Wales,Wales and West,28,Tim Hughes,Matt Crofts,Helen Church,52.213498,-4.35759
+8464,Abersoch,ILB,Gwynedd,West,Wales South & Severn,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,52.826469,-4.504438
+8559,Beaumaris,ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,53.2622,-4.0908
+8420,Criccieth,ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,52.918002,-4.230414
+8525,Holyhead,ALB/ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,53.317999,-4.641813
+8537,Moelfre,ALB/ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,53.354649,-4.231977
+8486,Porthdinllaen,ALB/ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,52.946957,-4.564596
+8442,Pwllheli,ALB/ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,52.8828,-4.4022
+8513,Trearddur Bay,ILB,Gwynedd,West,Wales & North West,Wales,Wales and West,29,Stuart Wallace,Matt Crofts,Helen Church,53.280685,-4.619961
+8560,Conwy,ILB,Conwy,West,Wales & North West,Wales,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.280798,-3.826256
+8666,Flint,ILB,Flintshire,West,Wales & North West,Wales,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.250506,-3.128462
+1314,Hoylake,ALB,Merseyside,West,Wales & North West,England,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.399302,-3.177598
+8571,Llandudno,ALB/ILB,Conwy,West,Wales & North West,Wales,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.322,-3.834
+1335,New Brighton,ILB/IRH,Merseyside,West,Wales & North West,England,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.439459,-3.047264
+8592,Rhyl,ALB/ILB,Denbighshire,West,Wales & North West,Wales,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.3251,-3.489
+1301,West Kirby,ILB,Merseyside,West,Wales & North West,England,Wales and West,30,Peter Rooney,Matt Crofts,Helen Church,53.3659,-3.1827
+1422,Barrow,ALB/ILB,Cumbria,West,Wales & North West,England,Wales and West,31, ,Matt Crofts,Helen Church,54.072406,-3.173292
+1379,Blackpool,ILB,Lancashire,West,Wales & North West,England,Wales and West,31, ,Matt Crofts,Helen Church,53.8133,-3.0561
+1391,Fleetwood,ALB/ILB,Lancashire,West,Wales & North West,England,Wales and West,31, ,Matt Crofts,Helen Church,53.927751,-3.006442
+1357,Lytham St Annes,ALB/ILB,Lancashire,West,West & North West,England,Wales and West,31, ,Matt Crofts,Helen Church,53.746724,-3.032689
+1400,Morecambe,ILB/IRH,Lancashire,West,Wales & North West,England,Wales and West,31, ,Matt Crofts,Helen Church,54.0751,-2.8636
+1488,Silloth,ILB,Cumbria,Scotland & North,North & Scot South,England,Wales and West,31, ,Matt Crofts,Helen Church,54.870051,-3.393223
+1444,St Bees,ILB,Cumbria,Scotland & North,North & Scot South,England,Wales and West,31, ,Matt Crofts,Helen Church,54.491,-3.6065
+1466,Workington,ALB/ILB,Cumbria,Scotland & North,North & Scot South,England,Wales and West,31, ,Matt Crofts,Helen Church,54.650894,-3.56766
+2063,Girvan,ALB,South Ayrshire,Scotland & North,Central & Shetland,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,55.243382,-4.857623
+2162,Helensburgh,ILB,Argyll & Bute,Scotland & North,Central & Shetland,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,56.013129,-4.7734
+2009,Kippford,ILB,Dumfries And Galloway,Scotland & North,North & Scot South,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,54.8765,-3.8135
+2027,Kirkcudbright,ILB,Dumfries And Galloway,Scotland & North,North & Scot South,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,54.839626,-4.047507
+2144,Largs,ILB,North Ayrshire,Scotland & North,Central & Shetland,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,55.80001,-4.870526
+2045,Portpatrick,ALB,Dumfries And Galloway,Scotland & North,North & Scot South,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,54.841949,-5.119849
+2052,Stranraer,ILB,Dumfries And Galloway,Scotland & North,North & Scot South,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,54.908139,-5.035224
+2108,Troon,ALB/ILB,South Ayrshire,Scotland & North,Central & Shetland,Scotland,Scotland,32,Bob McMaster,Jacob Davies,Michael Avril,55.5481,-4.6814
+2093,Arran (Lamlash),ILB,North Ayrshire,Scotland & North,Central & Shetland,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,55.535229,-5.124793
+2081,Campbeltown,ALB/ILB,Argyll & Bute,Scotland & North,Central & Shetland,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,55.425199,-5.601868
+2126,Islay,ALB,Argyll & Bute,Scotland & North,Central & Shetland,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,55.847496,-6.1048
+2194,Oban,ALB,Argyll & Bute,Scotland & North,Highlands,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,56.411072,-5.479592
+2180,Tighnabruaich,ILB,Argyll & Bute,Scotland & North,Central & Shetland,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,55.906743,-5.232637
+2200,Tobermory,ALB,Argyll & Bute,Scotland & North,Highlands,Scotland,Scotland,33,Paul Daly,Jacob Davies,Michael Avril,56.623206,-6.064304
+2223,Barra Island,ALB,Western Isles,Scotland & North,Central & Shetland,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,56.95411,-7.487129
+2229,Kyle Of Lochalsh,ILB,Highland,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,57.280224,-5.714595
+2240,Leverburgh,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,57.767644,-7.024841
+2263,Lochinver,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,58.146891,-5.247701
+2201,Mallaig,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,57.006,-5.8287
+2234,Portree,ALB,Highland,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,57.410714,-6.189909
+2255,Stornoway,ALB,Western Isles,Scotland & North,Highlands,Scotland,Scotland,34, ,Jacob Davies,Michael Avril,58.210039,-6.389171
+1133,Bangor,ILB,County Down,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,54.665721,-5.667155
+1155,Donaghadee,ALB,County Down,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,54.643426,-5.532
+1098,Enniskillen Lower (Rossigh),ILB,County Fermanagh,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,54.4228,-7.68
+1096,Enniskillen Upper (Carrybridge),ILB,County Fermanagh,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,54.287517,-7.548423
+1130,Larne,ALB/ILB,County Antrim,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,54.8467,-5.8001
+1111,Portrush,ALB/ILB,County Antrim,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,55.206819,-6.656611
+1128,Red Bay,ILB,County Antrim,Ireland,North & IOM,Northern Ireland,Ireland,35,Mike Grocott,Gareth Morrison,Kevin Rahill,55.074971,-6.053482
+1248,Douglas,ALB,Isle Of Man,Ireland,North & IOM,Isle of Man,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.144953,-4.469598
+1197,Kilkeel,ILB,County Down,Ireland,North & IOM,Northern Ireland,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.058654,-5.989645
+1189,Newcastle,ALB/ILB,County Down,Ireland,North & IOM,Northern Ireland,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.198053,-5.887134
+1224,Peel,ALB,Isle Of Man,Ireland,North & IOM,Isle of Man,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.227064,-4.698014
+1202,Port Erin,ILB,Isle Of Man,Ireland,North & IOM,Isle of Man,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.085136,-4.767972
+1260,Port St Mary,ALB/ILB,Isle Of Man,Ireland,North & IOM,Isle of Man,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.070466,-4.734509
+1178,Portaferry,ILB,County Down,Ireland,North & IOM,Northern Ireland,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.38103,-5.549382
+1246,Ramsey,ALB,Isle Of Man,Ireland,North & IOM,Isle of Man,Ireland,36,Rogan Wheeldon,Gareth Morrison,Kevin Rahill,54.322626,-4.378388
+9190,Arklow,ALB,County Wicklow,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,52.791971,-6.145103
+9118,Clogher Head,ALB,County Louth,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,53.788408,-6.235385
+9154,Dun Laoghaire,ALB/ILB,County Dublin,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,53.293086,-6.129896
+9136,Howth,ALB/ILB,County Dublin,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,53.389622,-6.068255
+9374,Lough Ree,ILB,County Westmeath,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,53.464033,-7.928379
+9129,Skerries,ILB,County Dublin,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,53.585827,-6.105646
+9172,Wicklow,ALB/ILB,County Wicklow,Ireland,Central,Ireland,Ireland,37,Owen Medland,Gareth Morrison,Kevin Rahill,52.981601,-6.032684
+9200,Courtown,ILB,County Wexford,Ireland,Central,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.643506,-6.225913
+9237,Dunmore East,ALB,County Waterford,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.147077,-6.992518
+9234,Fethard,ILB,County Wexford,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.187758,-6.838203
+9267,Helvick Head,ILB,County Waterford,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.0538,-7.5398
+9225,Kilmore Quay,ALB,County Wexford,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.173354,-6.589877
+9203,Rosslare Harbour,ALB,County Wexford,Ireland,Central,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.253976,-6.335815
+9259,Tramore,ILB,County Waterford,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.154096,-7.160562
+9202,Wexford,ILB,County Wexford,Ireland,Central,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,52.341891,-6.461635
+9271,Youghal,ILB,County Cork,Ireland,South,Ireland,Ireland,38,Joe Moore,Gareth Morrison,Kevin Rahill,51.951457,-7.844188
+9292,Ballycotton,ALB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.826984,-8.001682
+9322,Baltimore,ALB/ILB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.487761,-9.372083
+9338,Castletownbere,ALB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.648978,-9.901901
+9300,Courtmacsherry Harbour,ALB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.634941,-8.709276
+9298,Crosshaven,ILB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.804435,-8.29791
+9299,Kinsale,ILB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.7001,-8.518
+9311,Union Hall,ILB,County Cork,Ireland,South,Ireland,Ireland,39,Michael Carmody,Gareth Morrison,Kevin Rahill,51.558712,-9.133953
+9366,Aran Islands,ALB,County Galway,Ireland,Central,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,53.12308,-9.66794
+9377,Clifden,ILB,County Galway,Ireland,Central,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,53.485853,-10.029778
+9353,Fenit,ALB/ILB,County Kerry,Ireland,South,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,52.271712,-9.863121
+9371,Galway,ILB,County Galway,Ireland,Central,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,53.26916,-9.04687
+9360,Kilrush,ILB,County Clare,Ireland,South,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,52.629945,-9.50057
+9357,Lough Derg,ILB,County Donegal,Ireland,Central,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,52.925978,-8.27591
+9344,Valentia,ALB,County Kerry,Ireland,South,Ireland,Ireland,40,Darren Byers,Gareth Morrison,Kevin Rahill,51.926817,-10.288282
+9380,Achill Island,ALB,County Mayo,Ireland,Central,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,53.882786,-9.944697
+9388,Arranmore,ALB,County Donegal,Ireland,North & IOM,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,54.99713,-8.498311
+9382,Ballyglass,ALB/ILB,County Mayo,Ireland,Central,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,54.253746,-9.893222
+9385,Bundoran,ILB,County Donegal,Ireland,North & IOM,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,54.477009,-8.289091
+9584,Lough Swilly,ALB/ILB,County Donegal,Ireland,North & IOM,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,55.140876,-7.473457
+9384,Sligo Bay,ILB,County Sligo,Ireland,North & IOM,Ireland,Ireland,41,Tim Doran,Gareth Morrison,Kevin Rahill,54.305059,-8.567927

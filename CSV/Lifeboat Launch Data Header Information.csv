@@ -1,0 +1,169 @@
+Header,Translation
+RoS Number,Return of service number (RNLI ref)
+GIN Number,Global incident number from CG
+LB Station name (proper),Lifeboat station name
+Div Base,Divisional Base of Lifeboat Station
+Launch Tim,Launch time
+Year key,Year
+LB Class,Lifeboat class
+LB Number,Lifeboat Number
+ROS Type,Return of Service Type
+Cas Cat'y,Casualty category
+C/Typ Prop,Casualty type (full text)
+Rsn Proper,Reason for lifeboat launch
+Assmnt Proper,Outcome of service
+Cas Actvty,Activity
+Visib Inc,Visibility at incident location
+Wthr- Inc,Weather at incident location
+Seast -Inc,Sea conditions at incident
+LB Station Code,Lifeboat station code (RNLI ref)
+LB Station name,Lifeboat station name (short version)
+County,County lifeboat station is in
+SAR. Desc.,Coordinating coastguard
+1st Info,Who gave us 1st information re incident
+Signal,Who paged the crew
+1Info.Time,Time first information received
+Ass. Time,Time pagers were activated
+Arrv. Time,Time completed service or arrived back at station
+TimLnHMS,Time taken to launch lifeboat
+TimCasHMS,Time taken to get reach casualty
+Tidal - Ln,Tidal conditions at lifeboat launch site
+LW  - Lnch,Time of low water
+HW  Lnch,Time of high water
+Wthr- Lnch,Weather at launch site
+Visib Lnch,Visibility at launch site
+Winsp-Lnch,Wind speed at launch site
+WindirLnch,Wind direction at launch site (degrees)
+Seast - Ln,Sea conditions at launch site
+Weather,Weather at launch site
+Tidir Lnch,Tidal direction at launch site
+TRate-Lnch,Tidal rate at launch site
+Sh.Desc.,Who gave permission to launch
+Contacted,If official did not give permission to launch - were they informed
+Why not c.,If launch not authorised by official - why not?
+Reason for Launch Delay,Reason for delay in launching lifeboat
+Problem,Was there a problem with the lifeboat
+Slam Freq,"If any slamming, what was the frequency?"
+Tskd time,Time first information received
+Stood time,Time if lifeboat was stood down before reaching casualty
+Arr.Cas.Tm,Time lifeboat/crew arrived at casualty location
+Time left,Time lifeboat/crew left casualty location (with or without cas)
+Left Time,Time the casualty left care of lifeboat/crew
+Divrt.time,Time diverted to another incident
+Typ of cas,Casualty type (short version)
+Animal1,Casualty - Animal type1
+Animal2,Casualty - Animal type2
+Animal3,Casualty - Animal type3
+Reas Ass,Reason for assistance
+Nat - Free,Reason for assistance (extra info - free text)
+Act-Free,Activity (extra info - free text)
+Vessel,Name of casualty vessel
+Vess Flag,Flag of casualty vessel
+Vessel Propulsion,Vessels means of propulsion
+Latitude,Latitude 
+Longitude,Longitude
+Location,Location (free text descriptor - not used 2012 onwards)
+Total Pers,Number of people at risk
+What Became of Survivor,What became of the survivors?
+Vessel Outcome,What became of the vesssel?
+Tidal -inc,Tidal conditions at lifeboat launch site
+LW  - Inc,Time of low water
+HW  - Inc,Time of high water
+Winsp-Inc,Wind speed at incident location
+Windir Inc,Wind direction at incident location (degrees)
+Wthr - Inc,Weather comments at incident location
+Tidir Inc,Tidal direction at incident
+TRate-Inc,Tidal rate at incident
+KPI - Sea,Key performance indicator (RNLI ref)
+Short desc,Underlying reason for casualty requiring assistance (short text)
+SS-U/L Rsn,Underlying reason for casualty requiring assistance (full text)
+SS-MnsCom,Vessels main means of communicating distress
+SS-Mn Loc,Vessels main emergency location equipment
+SS Flares,Were flares used to guide the lifeboat
+Drnk/Drgs,Was the casualty believed to be under influence of drink/drugs?
+SS-Dr/Drg,If yes to believed under drink/drunks - why think this?
+Casualty Text,Casualty description (RNLI ref)
+Assessment Text,Incident outcome (RNLI ref)
+Crcy,Currency related to vlaue of craft receovered
+Final Assmnt,Final assessment of incident
+Cat upperc,Category of casualty
+Sal. claim,Has lifeboat crew claimed salvage?
+Incident,Incident number
+Laun. Date,Date of launch
+Lsave sis,Lives saved
+Perlnd SIS,Persons landed (no longer used 2012 onwards)
+Per Bro SI,Persons brought in (no longer used 2012 onwards)
+Pple Resc',People rescued (lives saved + people landed + people brought in)
+Per ass SI,People assisted (this replaced rescued in 2012 onwards)
+Estm. Val.,Estimated value of craft/vessel recovered
+YCOORD,Latiitude in degrees decimal
+XCOORD,Longitude in degrees decimal
+Over 18's,People rescued - over 18
+Under 18s,People rescued - under 18
+Darkness,Services in darkness
+Crew Ass,Crew assembly (lifeboat did not launch)
+Succ. serv,Service resulted in lifeboat providing assistance
+LB U/Way,Lifeboat already at sea when diverted to incident (eg on exercise)
+1Inf. Date,Date first information received
+Ass. Date,Date pagers were activated
+Arrv. Date,Date lifeboat arrived back at station
+TTL (Dec),Time taken to launch lifeboat (decimal)
+Tim Cas,Time taken to reach casualty (decimal)
+Under 30,Casualty reached within 30mins (1 = yes)
+RVHS,Vessel hours spent at sea
+Hrs @ sea,Total crew hours spent at sea
+Crew Chng,Was there a crew change?
+Reassem,Was a crew reassembly required to rehouse lifeboat later
+Shor Chng,Was there a change of shore crew
+Swell Lnch,Swell height at launch site
+Self Lnch,Was the launch a self launch (eg not requested by CG)
+CG Not'd,If self launch was the CG notified
+Lnch Delay,Launch delay indicator 
+Slamming,Lifeboat slamming indicator
+Tsked date,Date of first information
+Stood Date,Date lifeboat stood down
+Arr.Cas.Dt,Date lifeboat arrived at casualty
+Date left,Date lifeboat left casualty location
+Left Cas.D,Date casualty left care of lifeboat
+Divrt.Date,Date lifeboat diverted to another incident
+Med/Amb,Doctor / Ambulance call
+Vessel,Vessel length
+Bearing,Bearing to casualty
+Dst. stat.,Distance from station to casualty (as crow flies)
+Swell Inc,Swell height at incident location
+Wind >F7,Wind force greater than Force 7
+No. Cas,Number of people treated with casualty care
+SS-LJ Onbd,Number of people wearing lifejackets onboard vessel
+SS-LJ Watr,Number of people wearing lifejackets in the water
+Assessment,Assessment code (RNLI ref)
+Bod Rec SI,Dead bodies recovered
+Crft SIS,Craft saved
+CrftBro SI,Craft brought in
+Esc Cas,Escorted casualty indicator (not used 2012 onwards)
+Stood By,Stood by indicator (not used 2012 onwards)
+LLost  SIS,Lives lost
+M ch ass,Number of male children rescued
+F child,Number of female children rescued
+M Teen ass,Number of male teens rescued
+Fem Teen,Number of female teens rescued
+M adult,Number of male adults rescued
+Fem adult,Number of female adults rescued
+LB Capsize,Lifeboat capsized on service
+CrfSv/Bght,Craft saved or brought in indicator
+Co-ord C/G,Incident coordinated by CG indicator
+Hoax/false,Hoax or false alarm indicator
+Uns. srch.,Unnsuccessful search indicator
+Oth. coped,Others coped indicator
+LB incomplete,Lifeboat could not complete service
+TM&FV,Incident type was to merchant or fishing vessel
+TPC,Incident type was to pleasure craft
+To people,Incident type was to people
+Other cas.,Incident type was to other 
+SCCS,Services where crew claimed salvage
+Estm. Val.,Estimated value of craft/vessel recovered
+HMA,Medical person onboard lifeboat
+Doctor,Medical person onboard lifeboat
+Nurse,Medical person onboard lifeboat
+Midwife,Medical person onboard lifeboat
+Med.Auxil.,Medical person onboard lifeboat
+Excpt Wthr,Lifeboat was out in exceptional weather for it class (RNLI ref)
